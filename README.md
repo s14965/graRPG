@@ -1,0 +1,2 @@
+# graRPG
+wzorzec Dekorator
